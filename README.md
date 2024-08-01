@@ -1,2 +1,2 @@
 # semdev
-semantic versioning
+semantic versioning v1
